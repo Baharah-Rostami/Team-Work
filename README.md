@@ -17,7 +17,7 @@ The layout is clean, modern, and fully responsive across all devices.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML5  
 - Tailwind CSS (CDN)  
