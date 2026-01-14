@@ -46,7 +46,7 @@ Tailwind CSS utility classes ensure consistent spacing and layout on all screen 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this project locally:
 
